@@ -13,12 +13,12 @@ Olá! Sou o Sergio e sou apaixonado por aprender novas habilidades de programaç
 
 ## Jornada de Aprendizado Atual
 Atualmente, estou focado em aprimorar minhas habilidades de programação. No momento, estou aprendendo:
-- [Seu foco atual de aprendizado, ex.: JavaScritp.Atualmente, estou focado em aprimorar minhas habilidades de programação. No momento, estou aprendendo:
+- [Seu foco atual de aprendizado,  em JavaScritp.Atualmente, estou focado em aprimorar minhas habilidades de programação. No momento, estou aprendendo:
 - Desenvolvimento Web.]
 
 ## Colaboração
 Estou aberto a colaborar em projetos que envolvam:
-- [Seus interesses de colaboração, Contribuições de código aberto
+- [ Contribuições de código aberto
 - Desenvolvimento Web.]
 
 ## Contato
